@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wamania/php-stemmer": "3.0",
+        "guzzlehttp/guzzle": "7.0"
+    }
+}
